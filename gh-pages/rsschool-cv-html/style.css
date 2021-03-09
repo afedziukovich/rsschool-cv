@@ -1,0 +1,30 @@
+body {
+	width:80%;
+	margin:0px auto;
+	background-image: url(img/hero-bg6.jpg);
+	font-family: "Roboto", sans-serif;
+	font-size: 18px;
+	color: #ffffff;
+	padding: 0 30px;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+img {
+	border-radius: 10px;
+    border: 3px solid #FFA500;
+}
+
+a {
+	color: #FFA500;
+}
