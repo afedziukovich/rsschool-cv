@@ -27,7 +27,7 @@ HTML, CSS, SEO, Metrika.Yandex, Google Analytics, Wordstat Yandex.
 Transferring code from a site template to MODx: [http://astrohvarna.info](http://astrohvarna.info), [http://a-stroiteh.com](http://a-stroiteh.com)
 
 ## Experience ##
-My experience is related to the promotion of sites on the Internet, making edits to the site code (stostankov.com, [http://belpereplet.by/](http://belpereplet.by), data-by.by, [http://astrohvarna.info](http://astrohvarna.info), [http://a-stroiteh.com](http://a-stroiteh.com)). Redesigned sites based on templates ([http://astrohvarna.info](http://astrohvarna.info), [http://a-stroiteh.com](http://a-stroiteh.com)). Passed tests, created projects on training sites [Codecademy](https://www.codecademy.com/users/afedziukovich/achievements), [htmlacademy](https://htmlacademy.ru/profile/id1760047).
+My experience is related to the promotion of sites on the Internet, making edits to the site code (stostankov.com, [http://belpereplet.by](http://belpereplet.by), data-by.by, [http://astrohvarna.info](http://astrohvarna.info), [http://a-stroiteh.com](http://a-stroiteh.com)). Redesigned sites based on templates ([http://astrohvarna.info](http://astrohvarna.info), [http://a-stroiteh.com](http://a-stroiteh.com)). Passed tests, created projects on training sites [Codecademy](https://www.codecademy.com/users/afedziukovich/achievements), [htmlacademy](https://htmlacademy.ru/profile/id1760047).
 
 ## Education ##
   
