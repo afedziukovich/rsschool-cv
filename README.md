@@ -3,4 +3,4 @@ Repository RS School - JS / FRONT-END
 
 # Markdown & Git #
   
-https://afedziukovich.github.io/rsschool-cv/cv
+https://afedziukovich.github.io/rsschool-cv/cv.md
