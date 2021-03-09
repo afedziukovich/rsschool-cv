@@ -21,10 +21,13 @@ h2 {
 }
 
 img {
-	border-radius: 10px;
-    border: 3px solid #FFA500;
+  border-radius: 10px;
+  border: 3px solid #FFA500;
 }
 
 a {
-	color: #FFA500;
+  color: #FFA500;
+}
+
+ table { width: 80%;
 }
