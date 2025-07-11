@@ -40,6 +40,10 @@ a:visited {
   color: #7751ad;
 }
 
+.grey {
+  background-color: grey;
+}
+
 /*Стили контейнера*/
 .container {
   width: 100%;
