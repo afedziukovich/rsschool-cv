@@ -31,3 +31,20 @@ Ready to learn new things, develop as a specialist and be useful in the team.
 * JavaScript (Basics)
 * Git, GitHub
 * VS Code
+
+------
+### Code example:
+
+------
+### Courses:
+* ITLogia.ru: [Frontend: Start](https://itlogia.ru/certificates/intensive/16977-101250)
+* Netology.ru: [Frontend-разработка: основы HTML, CSS и Javascript](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/577466/d32737c776bbb8c035e78d069bbfdeec.png)
+* Code-basics.com: [Бесплатный курс для начинающих - HTML, CSS](https://code-basics.com/ru)
+* Hexlet.io: [Курсы от Хекслет](https://ru.hexlet.io/u/afedziukovich)
+* JavaScript Manual: [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
+* RS Schools Course: [«JS / Front-end RU Course»](https://rs.school/courses) (in progress)
+* IT-incubator.io: [Курс Front-end Разработчик](https://sandbox.it-incubator.io/steps/competition) (in progress)
+* Freecodecamp.org: [Certified Full Stack Developer Curriculum](https://www.freecodecamp.org/afedziukovich) (in progress)
+* Onlinetestpad.com: [Основы JavaScript](https://onlinetestpad.com/ru/testresult/1297623-osnovy-javascript?res=xfb4cu4s2ojaq)
+* Belhard: [Комплексный интернет-маркетинг](https://github.com/afedziukovich/afedziukovich/blob/main/000_internet_marketing_certificate.jpg)
+
