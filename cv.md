@@ -48,3 +48,7 @@ Ready to learn new things, develop as a specialist and be useful in the team.
 * Onlinetestpad.com: [Основы JavaScript](https://onlinetestpad.com/ru/testresult/1297623-osnovy-javascript?res=xfb4cu4s2ojaq)
 * Belhard: [Комплексный интернет-маркетинг](https://github.com/afedziukovich/afedziukovich/blob/main/000_internet_marketing_certificate.jpg)
 
+------
+### Languages:
+* Russian - native speaker.
+* English - A2 (B1 in process…)
