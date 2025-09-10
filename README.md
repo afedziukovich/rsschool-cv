@@ -1,1 +1,1 @@
-[CV Fedziukovich](https://afedziukovich.github.io/rsschool-cv/)
+[https://afedziukovich.github.io/rsschool-cv/](https://afedziukovich.github.io/rsschool-cv/)
